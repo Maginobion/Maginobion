@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [dylan-gonzales.vercel.app](https://dylan-gonzales.vercel.app/)
 
-- 📫 How to reach me: **1913010909@untels.edu.pe**
+- 📫 How to reach me: **dylangonzales.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
